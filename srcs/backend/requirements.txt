@@ -1,0 +1,14 @@
+Django
+gunicorn
+daphne
+psycopg2-binary
+django-cors-headers
+djangorestframework
+requests
+djangorestframework-simplejwt
+channels
+channels_redis
+django-extensions
+pyjwt
+qrcode
+pyotp
