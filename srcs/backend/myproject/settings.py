@@ -44,6 +44,7 @@ ALLOWED_HOSTS = [
     'four2trans-backend.onrender.com', 
     'localhost:3000',
     'pong-with-bugs-testing.vercel.app',
+    'pong-with-bugs-testing.vercel.app:443',
     'c3r1p1.42vienna.com',
     'c3r1p5.42vienna.com',
     'c3r1p2.42vienna.com',
