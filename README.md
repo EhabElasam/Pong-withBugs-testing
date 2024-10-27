@@ -2,7 +2,10 @@
 
 # Pure JS (vanilla) frontend + Django backend
 
-🏓 42 Transcendence 🏓 - This project, named pong42, is a school project for the ft_transcendence course. It features a Django backend paired with a pure JavaScript (vanilla JS) frontend.
+🏓 Pong-withBugs-testing 🏓
+
+Project Description:
+This project, Pong-withBugs-testing, is a modified version of the original pong42 created for the ft_transcendence course. Built using a Django backend and vanilla JavaScript frontend, this version intentionally includes bugs. The goal is to provide a hands-on environment for testing and debugging in workshop settings, helping participants practice identifying and solving issues.
 
 ### Screenshots
 
